@@ -2,7 +2,7 @@
 
 🎓 **Electrical & Electronic Engineering + Computer Science @ UWA**  
 🔧 Embedded systems, automation, and low-level programming enthusiast  
-🌏 Based in Australia | 🇩🇪 Learning German in my free-time
+🌏 Based in Australia | 🇩🇪 Learning German in my free time
 
 ---
 
