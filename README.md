@@ -44,8 +44,8 @@
 ## 📫 Connect with Me
 
 - 🌐 Website: [darcyjprojects.xyz](http://darcyjprojects.xyz)
-- 📺 YouTube: [@darcyjohnsonau](https://www.youtube.com/@darcyjohnsonau)
-- 🏢 Linkedin: [darcywdjohnson](https://www.linkedin.com/in/darcywdjohnson/)
+- 🏢 Linkedin: [in/darcywdjohnson](https://www.linkedin.com/in/darcywdjohnson/)
+- 🎥 YouTube: [@darcyjohnsonau](https://www.youtube.com/@darcyjohnsonau)
 - 📬 Email: [contactdarcy@darcyjprojects.xyz](mailto:contactdarcy@darcyjprojects.xyz)
 
 ---
