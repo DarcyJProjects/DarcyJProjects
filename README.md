@@ -45,6 +45,7 @@
 
 - 🌐 Website: [darcyjprojects.xyz](http://darcyjprojects.xyz)
 - 📺 YouTube: [@darcyjohnsonau](https://www.youtube.com/@darcyjohnsonau)
+- 🏢 Linkedin: [darcywdjohnson](https://www.linkedin.com/in/darcywdjohnson/)
 - 📬 Email: [contactdarcy@darcyjprojects.xyz](mailto:contactdarcy@darcyjprojects.xyz)
 
 ---
